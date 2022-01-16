@@ -279,16 +279,6 @@ Pub/Sub and Pub/Sub Lite are both horizontally scalable, managed messaging servi
 ---
 class: center, middle
 
-## Integrating with Cloud Functions
-
----
-class: center, middle
-
-*Demo*: Consume messages using `BackgroundFunction`
-
----
-class: center, middle
-
 ## Publishing messages to topics
 
 ---
