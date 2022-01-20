@@ -466,7 +466,7 @@ class: center, middle
 
 Larger batch sizes increase message throughput (rate of messages sent per CPU).
 
---
+---
 class: center, middle
 
 The cost of batching is latency for individual messages, which are queued in memory until their corresponding batch is filled and ready to be sent over the network.
@@ -717,7 +717,6 @@ class: center, middle
 Pub/Sub uses Identity and Access Management (IAM) for access control.
 
 ---
-class: center, middle
 
 In Pub/Sub, access control can be configured at the project level and at the individual resource level. For example:
 
